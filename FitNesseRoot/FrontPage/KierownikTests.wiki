@@ -1,0 +1,7 @@
+---
+Suite
+---
+!1 Test suite X
+!contents -R2 -g -p -f -h
+!define TEST_RUNNER {C:\Users\mateu\.nuget\packages\fitsharp\2.7.1\lib\net452\Runner.exe}
+!define COMMAND_PATTERN {%m -c C:\Users\mateu\source\repos\FitnesseTests\FitnesseTests\storytest.config.xml %p}

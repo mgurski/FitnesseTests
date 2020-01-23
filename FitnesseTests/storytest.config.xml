@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<suiteConfig>
+  <Settings>
+    <Runner>fitnesse.fitserver.FitServer</Runner>
+  </Settings>
+
+  <ApplicationUnderTest>
+    <addNamespace>FitnesseTests</addNamespace>
+    <addAssembly>C:\Users\mateu\source\repos\FitnesseTests\FitnesseTests\bin\Debug\FitnesseTests.dll</addAssembly>
+  </ApplicationUnderTest>
+</suiteConfig>

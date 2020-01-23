@@ -1,0 +1,15 @@
+---
+Test
+---
+|KierownikDodajPojazd|
+|dane			|DodajPojazd?				 	  |GetIloscPojazdow?|
+|6, 6655, 33, 1 |Sukces							  |6				|
+|6, 123, 33, 1  |Istnieje juz pojazd o podanym ID |6		  		|
+|7, 6655, 10, 1 |Istnieje juz pojazd o podanym numerze pojazdu|6	|
+|7, ABAB, 20, 2 |Sukces|7|
+|8, X0, 10, 1   |Sukces|8|
+|3, ABAB, 33, 1 |Istnieje juz pojazd o podanym ID|8|
+|9, ABAB, 33, 1 |Istnieje juz pojazd o podanym numerze pojazdu|8|
+|9, 99, 10, 1	|Sukces|9|
+|10, CCC, 1234, 1|Sukces|10|
+|11, 90,90,1	 |Sukces|11|

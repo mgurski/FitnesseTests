@@ -1,0 +1,12 @@
+---
+Test
+---
+|KierownikUsunPojazd|
+|id_pojazdu|UsunPojazd?|GetIloscPojazdow?|
+|1|true|4|
+|20|false|4|
+|1|false|4|
+|2|true|3|
+|3|true|2|
+|4|true|1|
+|5|true|0|

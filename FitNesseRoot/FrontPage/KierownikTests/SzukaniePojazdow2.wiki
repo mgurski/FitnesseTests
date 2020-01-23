@@ -1,0 +1,10 @@
+---
+Test
+---
+|KierownikSzukajPojazdu2|
+|dane|DodajPojazd?|id_pojazdu|GetIDPojazduSzukajPojazdu?|GetNumerPojazduSzukajPojazdu?|
+|10,1231,10,1|Sukces|10|10|1231|
+|11,4421,11,2|Sukces|11|11|4421|
+|12,2552,11,1|Sukces|13|null|null|
+|13,2221,1,2|Sukces|13|13|2221|
+|15,1231,10,1|Istnieje juz pojazd o podanym numerze pojazdu|15|null|null|
